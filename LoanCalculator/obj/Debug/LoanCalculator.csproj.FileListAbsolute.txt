@@ -1,0 +1,30 @@
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe.config
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.AssemblyReference.cache
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Form1.resources
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Properties.Resources.resources
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.GenerateResource.cache
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.exe
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.pdb
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe.manifest
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.application
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.exe.manifest
+C:\Ekkodale\Practice C#\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.application
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe.config
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe.manifest
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.application
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.AssemblyReference.cache
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Form1.resources
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Properties.Resources.resources
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.GenerateResource.cache
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.exe.manifest
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.application
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.exe
+C:\Ekkodale\Private\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.pdb
